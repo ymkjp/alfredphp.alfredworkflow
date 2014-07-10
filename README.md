@@ -32,7 +32,8 @@ Alfred workflow to run PHP one liner on Alfred for [Alfred Powerpack](http://www
 
 ## TIPS
 
-Call history by ↑ (Up Arrow) on Alfred prompt when you get a error and want to try again.
+#### when you get a error and want to try again
+Call history by ↑ (Up Arrow) on Alfred prompt not by pasting clipboard (It's overwritten).
 
 ![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.27.02.png "When error occured")
 
