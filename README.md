@@ -30,6 +30,15 @@ Alfred workflow to run PHP one liner on Alfred for [Alfred Powerpack](http://www
 ![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.01.43.png "It will be copied")
 
 
+## TIPS
+
+Call history by ↑ (Up Arrow) on Alfred prompt when you get a error and want to try again.
+
+![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.27.02.png "When error occured")
+
+![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.30.05.png "When error occured")
+
+
 ## CONTRIBUTION
 
 Here's the overview: Feel free to send a pull request.
