@@ -5,18 +5,17 @@ Run PHP one liner as it is on Alfred
 
 
 ## WHAT'S THIS
-Alfred workflow to run PHP one liner on Alfred for [Alfred Powerpack](http://www.alfredapp.com/powerpack/) users
+Alfred workflow to run PHP one liner on Alfred for [Powerpack](http://www.alfredapp.com/powerpack/) users
 
 ![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2003.41.56.png "php --version")
 
 ![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2003.42.00.png "Copied to Clipboard")
 
 
-
 ## INSTALL
 
-1. Download from https://dl.dropboxusercontent.com/u/6998388/AlfredPHP.alfredworkflow
-2. Click the downloaded file
+1. Download from https://github.com/ymkjp/alfredphp.alfredworkflow/blob/master/AlfredPHP.alfredworkflow?raw=true
+2. Click the downloaded file to install
 
 
 ## HOWTO USE
@@ -47,5 +46,5 @@ Here's the overview: Feel free to send a pull request.
 ![Overview](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.06.03.png "So simple")
 
 
-Yep, there are no code to modify.  # It's aloso one liner as itself !
+Yep, there is no code to modify.  # It's also one liner as itself!
 
